@@ -61,6 +61,7 @@ The setup scripts currently support:
 * Arch Linux
 * openSUSE
 * OS X (via homebrew)
+* Amazon Linux 2
 
 If you are unsure of what platform to use or do not have a preference, Ubuntu Bionic Beaver (for production or development)  and OS X (for trying things out or development) are suggested.
 
