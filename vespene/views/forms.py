@@ -91,7 +91,7 @@ class ProjectForm(BaseForm):
     class Meta:
         model = Project
         fields = ('name', 'description', 'pipeline', 'pipeline_enabled', 'stage', 'script', 'timeout', 'variables', 
-            'scm_type', 'repo_url', 'repo_branch', 'recursive', 'scm_login', 'ssh_keys', 
+            'scm_type', 'repo_url', 'repo_branch', 'recursive', 'depth', 'scm_login', 'ssh_keys',
             'owner_groups', 'variable_sets', 'worker_pool', 'webhook_enabled', 'webhook_token',
             'container_base_image', 'launch_questions', 'launch_groups',
             'schedule_enabled','monday','tuesday','wednesday','thursday','friday',
