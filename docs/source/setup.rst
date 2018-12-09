@@ -58,6 +58,7 @@ The setup scripts currently support:
 
 * Ubuntu Bionic Beaver (18.04)
 * CentOS 7 (using software collections)
+* Fedora
 * Arch Linux
 * openSUSE
 * OS X (via homebrew)
