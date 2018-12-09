@@ -52,7 +52,7 @@ and a PostgreSQL server, which we can help you install.
 Install automation is provided for the following platforms:
 
 * Ubuntu LTS distributions
-* CentOS 7 or RHEL 7
+* CentOS 7, RHEL 7, or Fedora
 * Arch Linux
 * openSUSE
 * OS X
